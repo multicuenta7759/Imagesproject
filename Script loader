@@ -1,3 +1,3 @@
 git add .
-git commit -m "Add short URL /l for script"
+git commit -m "Add Legacy Service as script proxy"
 git push
