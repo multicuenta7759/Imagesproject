@@ -1,0 +1,3 @@
+git add .
+git commit -m "Add short URL /l for script"
+git push
